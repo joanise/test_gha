@@ -9,4 +9,4 @@ on:
 
 jobs:
   call-reusable-workflow:
-    uses: joanise/test_gha_infra/.github/workflows/level-1.yml@v1.4
+    uses: joanise/test_gha_infra/.github/workflows/level-1.yml@v1.5
